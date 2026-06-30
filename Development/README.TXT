@@ -23,16 +23,14 @@ GUI development using Java Swing, and event handling.
 
 VERSION or DATE:
 Version: 1.0
-Date: June 2026
+Date: September 2025
 
 ------------------------------------------------------------------------
 
 HOW TO START THIS PROJECT:
 1. Install Java Development Kit (JDK) on your computer.
 2. Open the project folder in a Java IDE such as:
-   - IntelliJ IDEA
-   - Eclipse
-   - NetBeans
+   -BlueJ
 
 3. Compile all Java files:
    - GymGUI.java
